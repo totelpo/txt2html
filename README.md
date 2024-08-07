@@ -1,2 +1,3 @@
 Converts text file to HTML. 
-See sample.txt
+<pre>shell> ./txt2html.sh sample.txt  ~/t</pre>
+
