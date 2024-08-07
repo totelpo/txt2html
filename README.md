@@ -1,2 +1,2 @@
-Converts text file to HTML
+Converts text file to HTML. 
 See sample.txt
