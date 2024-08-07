@@ -1,0 +1,18 @@
+/ PostgreSQL 14
+
+/ 1 | Prerequisites
+
+/ 1.1 | DNF Repo
+
+/ 1.2 | Firewall
+
+/ 2 | Install
+
+/ 3 | Configure
+
+/ 4 | Start
+
+/ A | Errors
+
+/ References
+
