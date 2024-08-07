@@ -3,7 +3,7 @@ Converts text file to HTML with table of contents linked to each section.
 shell> ./txt2html.sh TEXT_FILE   OUT_DIR
 shell> ./txt2html.sh sample.txt  ~/t
 </pre>
-sample.txt  : Must follow below format. All chapter headings must begin with forward slash(/) and seperated by pipe(|)
+sample.txt  : Must follow below format. All chapter headings must begin with forward slash space(/ ) and seperated by pipe(|)
 <pre>
 / Title
 some text
